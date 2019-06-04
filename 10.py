@@ -1,3 +1,3 @@
-a=input()
-n=len(a)
-print(n)
+h=input()
+p=len(h)
+print(p)
