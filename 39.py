@@ -1,0 +1,5 @@
+q=input()
+q=q.split()
+k=list(map(int,q))
+r=max(k)
+print(r)
