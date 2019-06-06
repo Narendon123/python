@@ -1,0 +1,5 @@
+t=int(input())
+z=input()
+z=z.split()
+s=sorted(z)
+print(*s,sep=' ')
