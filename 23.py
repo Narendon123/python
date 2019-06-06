@@ -1,4 +1,4 @@
 d=int(input())
-w=input()
-w=w.split()
-print(min(w))
+g=input()
+g=g.split()
+print(min(g))
