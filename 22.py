@@ -1,4 +1,4 @@
-d=int(input())
-w=input()
-w=w.split()
-print(max(w))
+f=int(input())
+o=input()
+o=o.split()
+print(max(o))
