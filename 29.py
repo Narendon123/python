@@ -1,3 +1,4 @@
 a=int(input())
 b=a//60
-print(b,a)
+c=a%60
+print(b,c)
