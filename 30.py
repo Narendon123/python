@@ -1,0 +1,11 @@
+f=input()
+f=f.split()
+r=f[0]
+r2=f[1]
+w=input()
+w=w.split()
+q=w[0]
+q2=w[1]
+s=int(f[0])-int(w[0])
+s2=int(f[1])-int(w[1])
+print(abs(s),abs(s2))
