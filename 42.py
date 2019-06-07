@@ -9,4 +9,4 @@ if(r<l):
 elif(l<r):
     print(y)
 else:
-    print(y or t)
+    print(t)
