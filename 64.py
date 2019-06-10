@@ -1,0 +1,9 @@
+f=input()
+f=f.split()
+g=int(f[0])
+h=int(f[1])
+k=g+h
+if(k%2==0):
+    print("even")
+else:
+    print("odd")
