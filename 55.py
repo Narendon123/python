@@ -1,0 +1,9 @@
+r=input()
+r=r.split()
+w=int(r[0])
+q=int(r[1])
+a=int(w*q)
+if(a%2==0):
+    print("even")
+else:
+    print("odd")
