@@ -1,0 +1,9 @@
+d=input()
+d=d.split()
+h=int(d[0])
+f=int(d[1])
+r=h-f
+if(r%2==0):
+    print("even")
+else:
+    print("odd")
