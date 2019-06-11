@@ -1,0 +1,9 @@
+r=int(input())
+w=input()
+w=w.split()
+w1=int(w[0])
+w2=int(w[1])
+w3=int(w[2])
+w4=int(w[3])
+q=w1+w2+w3+w4
+print(q)
