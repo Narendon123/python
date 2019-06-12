@@ -1,0 +1,5 @@
+w=int(input())
+q=input()
+q=q.split()
+q.sort(reverse=True)
+print(*q,sep="")
