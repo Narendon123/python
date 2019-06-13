@@ -1,0 +1,5 @@
+w=input().split()
+w2=input().split()
+w3=input().split()
+r=max(w2),max(w3)
+print(*r,sep=" ")
