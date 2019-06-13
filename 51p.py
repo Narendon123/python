@@ -1,0 +1,6 @@
+w=int(input())
+r=list(map(int,input().split()))
+e=min(r)
+r.remove(e)
+t=min(r)
+print(t)
