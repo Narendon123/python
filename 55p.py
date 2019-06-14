@@ -1,0 +1,10 @@
+r=input()
+r=r.split()
+e=r[0]
+e2=r[1]
+e=e.lower()
+e2=e2.lower()
+if(e==e2):
+    print("yes")
+else:
+    print("no")
