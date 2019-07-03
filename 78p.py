@@ -1,0 +1,9 @@
+n=input()
+n=n.split()
+a=int(n[0])
+b=int(n[1])
+a1=input().split()
+a2=input().split()
+p=a1+a2
+p=sorted(p)
+print(*p,sep=" ")		
