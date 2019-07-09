@@ -1,0 +1,6 @@
+p=input()
+p=p.split()
+q=int(p[0])
+q1=int(p[1])
+w=list(map(int,input().split()))
+print(w.index(q)+1)
