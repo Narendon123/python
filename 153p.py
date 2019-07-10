@@ -7,7 +7,7 @@ l2=[]
 for i in q1:
     l.append(i)
 a=len(l)
-if(q2==1 and len(q1)==1):
+if(q2==1):
     print(q1)
 else:    
     for i in range(0,a,q2):
