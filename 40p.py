@@ -7,7 +7,7 @@ for i in b:
 a=str(sum(l))
 l2.append(a)
 if(l2==l2[::-1]):
-    print("Yes")
+    print("YES")
 else:
-    print("No")
+    print("NO")
 
